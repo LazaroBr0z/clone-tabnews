@@ -11,7 +11,7 @@ export default function Home() { // This is the default page component for the h
     </p>
 
     <div class="links">
-      <a class="linkedin" href="https://www.linkedin.com/in/lazaromsouza/" target="_blank">LinkedIn</a>
+      <a class="linkedin" href="https://www.linkedin.com/in/lazaromsouza/" target="_blank">LinkedIn</a><br></br>
       <a class="github" href="https://github.com/LazaroBr0z" target="_blank">GitHub</a>
     </div>
   </div>
