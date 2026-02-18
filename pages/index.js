@@ -1,7 +1,6 @@
 export default function Home() { // This is the default page component for the home page
     return (
         <div class="card">
-    
     <h1>Lázaro Machado</h1>
     
     <p>
