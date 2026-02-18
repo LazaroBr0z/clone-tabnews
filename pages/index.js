@@ -1,8 +1,19 @@
 export default function Home() { // This is the default page component for the home page
     return (
-        <div>
-            <h1>First deploy - Vercel</h1>
-            <p>Teste - Lázaro </p>
-        </div>
+        <div class="card">
+    
+    <h1>Seu Nome</h1>
+    
+    <p>
+      Sou estudante de TI e atuo com suporte técnico. 
+      Tenho interesse em desenvolvimento, requisitos e tecnologia.
+      Sempre buscando evoluir e criar soluções eficientes.
+    </p>
+
+    <div class="links">
+      <a class="linkedin" href="https://www.linkedin.com/in/lazaromsouza/" target="_blank">LinkedIn</a>
+      <a class="github" href="https://github.com/LazaroBr0z" target="_blank">GitHub</a>
+    </div>
+  </div>
     );
-} // npm un dev =  starta localhost 3000
+} // npm un dev =  starta localhost 3000 
