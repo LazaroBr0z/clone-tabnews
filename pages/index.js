@@ -2,7 +2,7 @@ export default function Home() { // This is the default page component for the h
     return (
         <div class="card">
     
-    <h1>Seu Nome</h1>
+    <h1>Lázaro Machado</h1>
     
     <p>
       Sou estudante de TI e atuo com suporte técnico. 
